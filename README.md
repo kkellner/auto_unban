@@ -10,7 +10,7 @@ NOTE: Only the `never_ban` feature is currently implemented.
 Example config to be added to `configuration.yaml`
 
 ```yaml
-auto_unban:
+unban:
     max_time: 600   # Maximum time to ban auto_unban IPs (not implemented yet)
     never_ban:
         - 172.20.0.60
