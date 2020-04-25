@@ -1,8 +1,7 @@
 {
     "name": "Authentication IP address unban",
-    "content_in_root": false,
     "domains": [
       "unban"
     ],
     "homeassistant": "0.106.0"
-  }
+}
