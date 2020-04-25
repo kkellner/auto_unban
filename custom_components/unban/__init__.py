@@ -28,7 +28,7 @@ from homeassistant.const import (
     EVENT_CALL_SERVICE, ATTR_NOW, ATTR_DOMAIN, ATTR_SERVICE, MATCH_ALL,
     EVENT_SERVICE_REGISTERED)
 
-DOMAIN = "auto_unban"
+DOMAIN = "unban"
 
 
 _LOGGER = logging.getLogger(__name__)
