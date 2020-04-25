@@ -7,7 +7,7 @@ WARNING: This is a work-in-progress
 NOTE: Only the `never_ban` feature is currently implemented.
 
 # Configuration
-Example config to be added to configuration.yaml
+Example config to be added to `configuration.yaml`
 
 ```yaml
 auto_unban:
