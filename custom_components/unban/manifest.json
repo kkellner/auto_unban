@@ -1,0 +1,8 @@
+{
+    "domain": "unban",
+    "name": "Authentication IP address unban",
+    "documentation": "https://github.com/kkellner/homeassistant-unban",
+    "dependencies": [],
+    "codeowners": ["@kkellner"],
+    "requirements": []
+  }
